@@ -1,0 +1,12 @@
+can just do "npm run dev" on root folder, it will do:
+
+1. backend api news fetch :\"node server.js\"
+2. backend login/registration local JSON server	:\"json-server -p 3009 -w user-db.json \"
+3. frontend : npm start
+
+fake username:
+
+username: admin
+password: admin
+
+
